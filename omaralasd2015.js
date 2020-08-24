@@ -13,4 +13,4 @@ $('.uzr.fl.corner.borderg')['css']({
 });
 $('.checkbox label')['html'](`${'<input id="stealth" type="checkbox" value="" maxlength="12"><i class="fa fa-eye-slash" aria-hidden="true">'}`);
 $('.nav-tabs')['addClass']('fl')['css']('width', '100%');
-$(`${'<link rel="stylesheet" type="text/css" href="">\x0D\x0A<link rel="stylesheet" href="">\x0D\x0A<link href="https://cdn.statically.io/gh/waleed-qaid/1des/a846a384/%E2%80%8F%E2%80%8Fwww.1des.net-www.w6n-qlbi.com.css" rel="stylesheet" type="text/css" />\x0D\x0A\x0D\x0A\x0D\x0A<style>\x0D\x0A\x0D\x0A\x0D\x0A\x0D\x0A</style>\x0D\x0A'}`)['insertBefore']('body')
+$(`${'<link rel="stylesheet" type="text/css" href="">\x0D\x0A<link rel="stylesheet" href="">\x0D\x0A<link href="https://rawcdn.githack.com/omar-alhaded/master/8c6e3ca2c9d3d037df014b2cf6951c0a14acf966/omaralasd2015.css" rel="stylesheet" type="text/css" />\x0D\x0A\x0D\x0A\x0D\x0A<style>\x0D\x0A\x0D\x0A\x0D\x0A\x0D\x0A</style>\x0D\x0A'}`)['insertBefore']('body')
